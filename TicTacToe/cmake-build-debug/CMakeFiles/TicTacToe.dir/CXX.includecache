@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CPLUSPLUS-master/TicTacToe/board.cpp
+board.h
+E:/CPLUSPLUS-master/TicTacToe/board.h
+iostream
+-
+
+E:/CPLUSPLUS-master/TicTacToe/board.h
+
+E:/CPLUSPLUS-master/TicTacToe/main.cpp
+iostream
+-
+string
+-
+conio.h
+-
+stdlib.h
+-
+
